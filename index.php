@@ -20,8 +20,6 @@ $Name[] = 'Timyr';
           print_r ($Name);
           print_r ($lastName);
         echo '</pre>';
-        
-        
-        //Hier is my new mykola branch
+       
 
 ?>
